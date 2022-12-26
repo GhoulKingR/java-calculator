@@ -1,0 +1,43 @@
+# Introduction
+
+Welcome to the Java Calculator project! This project was created as an introduction to GUI programming in Java using the Swing library. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+To get started with the project, you will need to have the following software installed on your computer:
+
+* Java SE Development Kit (JDK) 8 or higher
+* An integrated development environment (IDE) such as Eclipse or IntelliJ IDEA
+
+Once you have these tools installed, you can download the source code for the project and open it in your IDE. From there, you can build and run the calculator.
+
+# Running the application
+
+`Calculatoro.jar` is the main application's executable. To run the executable, run the application with this command:
+```bash
+$ java -jar Calculator.jar
+```
+
+You need Java Runtime Environment (JRE) installed on your system, for the application to work.
+
+# License
+
+MIT License
+
+Copyright (c) 2022 Chigozie Oduah
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
