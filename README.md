@@ -11,7 +11,7 @@ Once you have these tools installed, you can download the source code for the pr
 
 # Running the application
 
-`Calculatoro.jar` is the main application's executable. To run the executable, run the application with this command:
+`Calculator.jar` is the main application's executable. To run the executable, run the application with this command:
 ```bash
 $ java -jar Calculator.jar
 ```
